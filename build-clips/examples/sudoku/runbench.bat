@@ -10,3 +10,4 @@
 (reset)
 (assert (stress-test))
 (run)
+(exit)

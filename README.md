@@ -11,5 +11,7 @@ docker run -i -t parana/clips bash
 No contêiner fazer:
 
 ```bash
-clips
+cd /build-clips/examples/sudoku
+clips -f2 runbench.bat
 ```
+
